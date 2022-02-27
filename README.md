@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 I’m currently looking for Summer 2022 Internships
+- 📫 I’m currently looking for Summer 2022 Software/Data Science Internships
 - 🔭 I’m currently working on Full Stack Web Development and Machine Learning projects.
 - 🌱 I’m currently learning MERN Stack and Bayesian Machine Learning.
 - 👯 I’m looking to collaborate on Django, MERN Stack (MongoDB, Express, React and Node) and Machine Learning projects.
