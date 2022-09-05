@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📕 Masters in Computer Science @ NYU Courant with ML specialization
+- 📕 Computer Science Graduate Student with ML specialization @ NYU Courant
 - 📫 Ex-Software Development @ Walmart US, Amadeus India
 - 🔭 I’m currently working on Full Stack Web Development and Machine Learning projects
 - 🌱 I’m currently learning MERN Stack and Bayesian Machine Learning
