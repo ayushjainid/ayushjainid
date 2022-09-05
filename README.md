@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning MERN Stack and Bayesian Machine Learning.
 - 👯 I’m looking to collaborate on Django, MERN Stack (MongoDB, Express, React and Node) and Machine Learning projects.
 - 🌐 Find more about my education, experience, projects and experiences at www.ayushjain.dev 
-- 📩 How to reach me: LinkedIn (https://www.linkedin.com/in/ayushjainid/) or mail me at (aj3152@nyu.edu or ayushjainid@gmail.com)
+- 📩 How to reach me: LinkedIn (https://www.linkedin.com/in/ayushjainid/) or mail me at aj3152@nyu.edu.
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushjainid&show_icons=true&theme=radical&count_private=true&show_icons=true)
