@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 Currently building at SWE III @ Walmart US, Ex SWE @ Amadeus, India
+- 📫 Currently building @ Walmart US, Ex SWE @ Amadeus, India
 - 📕 Computer Science Graduate Student with ML specialization @ NYU Courant
 - 🔭 I’m currently working on Full Stack Web Development and Machine Learning projects
 - 🌱 I’m currently learning MERN Stack and Bayesian Machine Learning
